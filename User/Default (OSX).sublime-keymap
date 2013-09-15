@@ -2,5 +2,13 @@
 	{
 		"keys": ["super+t"],
 		"command": "new_file"
-	}
+	},
+	{
+    "keys": ["alt+m"],
+    "command": "toggle_setting",
+    "args":
+    {
+        "setting": "match_brackets"
+    }
+}
 ]
