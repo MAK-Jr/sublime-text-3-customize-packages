@@ -11,6 +11,7 @@
 		"Vintage"
 	],
 	"margin": 0,
+	"match_brackets": false,
 	"overlay_scroll_bars": "system",
 	"soda_folder_icons": true,
 	"theme": "Soda Light 3.sublime-theme",
