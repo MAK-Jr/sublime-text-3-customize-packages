@@ -1,6 +1,16 @@
 # Sublime Text 3 Customize Packages
 
-Sublime Text 3 customize packages
+## Installation
+
+Mac
+
+`cd /Users/Pitt/Library/Application Support/Sublime Text 3/Packages`
+
+and
+
+`git clone git@github.com:MAK-Jr/sublime-text-3-customize-packages.git`
+
+and relunch Sublime Text 3
 
 ## License
 
