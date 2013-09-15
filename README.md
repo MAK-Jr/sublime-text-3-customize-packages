@@ -4,7 +4,7 @@
 
 Mac
 
-`cd /Users/Pitt/Library/Application Support/Sublime Text 3/Packages`
+`cd /Users/Pitt/Library/Application\ Support/Sublime\ Text 3/Packages`
 
 and
 
