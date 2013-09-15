@@ -12,7 +12,7 @@
 	],
 	"margin": 0,
 	"match_brackets": false,
-	"overlay_scroll_bars": "system",
+	"overlay_scroll_bars": "disable",
 	"soda_folder_icons": true,
 	"theme": "Soda Light 3.sublime-theme",
 	"trim_trailing_white_space_on_save": true
