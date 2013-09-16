@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"DocBlockr",
 		"ERB Snippets",
 		"Jade",
 		"JavaScript & NodeJS Snippets",
